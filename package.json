@@ -1,0 +1,21 @@
+{
+  "name": "auto-leave-discord",
+  "version": "1.2.2",
+  "description": "an automated script to log out of all servers and delete the ones you own.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.13.11",
+    "chalk": "^4.1.2",
+    "debug": "^4.4.3",
+    "discord.js": "^14.23.2",
+    "discord.js-selfbot-v13": "^3.7.1",
+    "dotenv": "^17.2.3",
+    "ora": "^5.4.1"
+  }
+}
