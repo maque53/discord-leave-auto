@@ -10,4 +10,4 @@ client.on('ready', async () => {
   await processGuilds(client);
 });
 
-client.login(process.env.TOKEN || 'TOKEN);
+client.login(process.env.TOKEN || 'TOKEN');
